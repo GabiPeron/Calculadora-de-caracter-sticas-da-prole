@@ -1,0 +1,19 @@
+Cor dos olhos - Castanho ou verde | Oo
+Cor dos cabelos - Escuros ou claros | Cc
+Cor da pele - Escura ou clara | Pp
+Mão dominante - Destro ou canhoto | Mm
+Formato da face - Oval ou quadrada | Ff
+Lóbulo da orelha - Solto ou preso | Rr
+Formato do nariz - Aquilino ou curvado para cima | Nn
+Sentido do redemoinho do cabelo - Anti-horário ou horário | Ss
+Bico de viúva - Sim ou não | Vv
+Covinhas da face - Sim ou não | Aa
+Apto a sentir o sabor do PTC - Sim ou não | Tt
+Polegar - Reto ou de caroneiro | Ll
+Ponta da aurícula - Curvada para dentro ou reta | Uu
+Sobrancelha - Larga ou delgada | Bb
+Sardas - Sim ou não | Dd
+Cílios - Longos ou curtos | Ii
+Formato dos olhos - Amendoados ou Arredondados | Hh
+Cerúmen - Úmido ou seco | Ee
+Sisos - Sem ou com | Zz
