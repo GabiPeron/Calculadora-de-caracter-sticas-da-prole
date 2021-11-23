@@ -18,6 +18,4 @@ crossover_genotypes = []
 for sample in crossover_samples.itertuples():
     crossover_genotypes.append(sample.eyeColor + sample.hairColor)
 
-# for genotype in crossover_genotypes:
-    # print(set([''.join(p) for p in permutations(crossover_genotypes[genotype])]))
 print(punnett(crossover_genotypes[0], crossover_genotypes[1]))
